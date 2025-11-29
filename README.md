@@ -2,7 +2,7 @@
 > *Building logic 🧠. Learning systems👾. Creating the future 🤖.*
 
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=21&duration=5010&pause=1000&vCenter=true&width=435&lines=Welcome+to+my+little+space+on+GitHub+!;Code.+Learn.+Improve.+Repeat." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=21&duration=5010&pause=1000&vCenter=true&width=435&lines=Welcome+to+my+little+space+on+GitHub!;Code.+Learn.+Improve.+Repeat." alt="Typing SVG" /></a>
 
 ---
 <!--
