@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello👋! Kartik here.
+***Building logic. Learning systems. Creating the future.***
 
 <!--
 **Kartik-0-8/Kartik-0-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
